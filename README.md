@@ -56,6 +56,7 @@ plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
 # Output 
+![image](https://github.com/R-Guruprasad/Correlation_Regression/assets/119390308/d33655f4-ae9c-4d35-8645-44a4fc66b3ad)
 ![image](https://github.com/R-Guruprasad/Correlation_Regression/assets/119390308/9a187940-efa7-4189-8a2c-d83b7a847d83)
 
 # Result  
